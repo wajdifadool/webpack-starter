@@ -13,9 +13,12 @@ css-loader
 ## Usage
 
 Run Dev Server (Port 3000)
->npm run dev
+```python
+npm run dev
+```
 
 ## Build for production
+```python
 >npm run build
-
+```
 
