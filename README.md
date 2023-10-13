@@ -10,12 +10,12 @@ css-loader
 - webpack-cli    
 - webpack-dev-server
 
-  ## Usage
-  
-  Run Dev Server (Port 3000)
-  >npm run dev
+## Usage
 
-  ## Build for production
-  >npm run build
+Run Dev Server (Port 3000)
+>npm run dev
 
-  
+## Build for production
+>npm run build
+
+
